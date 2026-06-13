@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kepler.gl-000000?style=flat-square&logo=uber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-squarehttps://img.shields.io/badge/Kepler.gl-000000?style=flat-square&logo=uber&logoColor=whitelogo=microsoftexcelhttps://img.shields.io/badge/Kepler.gl-000000?style=flat-square&logo=uber&logoColor=whitelogoColor=white" />
 </div>
 
 ---

@@ -14,7 +14,7 @@
 
 ## 🖼️ Poster
 
-![Poster Visdat](assets/Poster%20Visdat.png)
+<img src="assets/Poster Visdat.png" width="600"/>
 
 ---
 
